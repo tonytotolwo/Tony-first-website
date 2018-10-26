@@ -1,0 +1,426 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gurukul Education\n"
+"Last-Translator: \n"
+"Language-Team: Luzuk <support@luzuk.com>\n"
+"Language: English\n"
+"MIME-Version: 1.2.4\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: 404.php:17
+msgid 'Oops! That page can&rsquo;t be found.'
+msgstr ""
+
+#: 404.php:19
+msgid 'Return to home page'
+msgstr ""
+
+#: 404.php:23
+msgid 'It looks like nothing was found at this location. Maybe try a search?'
+msgstr ""
+
+#: comments.php:31
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:23
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:29
+msgid 'Comments are closed.'
+msgstr ""
+
+#: header.php:23
+msgid 'Skip to content'
+msgstr ""
+
+#: header.php:64
+msgid 'EMAIL SUPPORT'
+msgstr ""
+
+#: header.php:65
+msgid 'support@example.com'
+msgstr ""
+
+#: header.php:70
+msgid 'CALL SUPPORT'
+msgstr ""
+
+#: searchform.php:17
+msgid Search for:
+msgstr ""
+
+#: searchform.php:19
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:20
+msgid 'submit button'
+msgstr ""
+
+#: archive.php:49
+#: archive.php:82
+#: archive.php:115
+#: archive.php:148
+#: archive.php:182
+#: archive.php:217
+#: index.php:51
+#: index.php:86
+#: index.php:121
+#: index.php:157
+#: index.php:193
+#: index.php:229
+#: search.php:52
+#: search.php:88
+#: search.php:124
+#: search.php:160
+#: search.php:197
+#: search.php:234
+#: single.php:180
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:50
+#: archive.php:83
+#: archive.php:116
+#: archive.php:149
+#: archive.php:183
+#: archive.php:218
+#: index.php:52
+#: index.php:87
+#: index.php:122
+#: index.php:158
+#: index.php:194
+#: index.php:230
+#: search.php:53
+#: search.php:89
+#: search.php:125
+#: search.php:161
+#: search.php:198
+#: search.php:235
+#: single.php:181
+msgid 'Next page'
+msgstr ""
+
+#: archive.php:51
+#: archive.php:84
+#: archive.php:117
+#: archive.php:150
+#: archive.php:184
+#: archive.php:219
+#: index.php:53
+#: index.php:88
+#: index.php:124
+#: index.php:159
+#: index.php:195
+#: index.php:231
+#: search.php:54
+#: search.php:90
+#: search.php:126
+#: search.php:162
+#: search.php:199
+#: search.php:236
+#: single.php:182
+msgid 'Page'
+msgstr ""
+
+#: functions.php:38
+msgid 'Top Menu'
+msgstr ""
+
+#: functions.php:84
+msgid 'Welcome to Luzuk!!'
+msgstr ""
+
+#: functions.php:85
+msgid 'Thank you for choosing Gurukul Education theme. It will be our pleasure to have you on our Welcome page to serve you better.'
+msgstr ""
+
+#: functions.php:86
+msgid 'GET STARTED'
+msgstr ""
+
+#: functions.php:92
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:94
+msgid 'Add widgets here to appear in your sidebar on blog posts and archive pages.'
+msgstr ""
+
+#: functions.php:104
+#: functions.php:114
+msgid 'Add widgets here to appear in your pages and posts'
+msgstr ""
+
+#: functions.php:102
+msgid 'Sidebar 2'
+msgstr ""
+
+#: functions.php:112
+msgid 'Sidebar 3'
+msgstr ""
+
+#: functions.php:255
+msgid 'Luzuk'
+msgstr ""
+
+#: functions.php:214
+msgid 'Collapse child menu'
+msgstr ""
+
+#: functions.php:213
+msgid 'Expand child menu'
+msgstr ""
+
+#: functions.php:122
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:132
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:142
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:152
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:124
+#: functions.php:134
+#: functions.php:144
+#: functions.php:154
+msgid 'Add widgets here to appear in your footer.'
+msgstr ""
+
+#: index.php:19
+msgid 'Posts'
+msgstr ""
+
+#: search.php:18
+#: template-parts/content-none.php:14
+msgid 'Nothing Found'
+msgstr ""
+
+#: search.php:16
+msgid 'Results For: %s'
+msgstr ""
+
+#: search.php:42
+#: search.php:78
+#: search.php:114
+#: search.php:150
+#: search.php:187
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: single.php:35
+#: single.php:61
+#: single.php:87
+#: single.php:113
+#: single.php:140
+msgid 'Previous Post'
+msgstr ""
+
+#: single.php:35
+#: single.php:61
+#: single.php:87
+#: single.php:113
+#: single.php:140
+msgid 'Previous'
+msgstr ""
+
+#: single.php:36
+#: single.php:62
+#: single.php:88
+#: single.php:114
+#: single.php:141
+msgid 'Next Post'
+msgstr ""
+
+#: single.php:36
+#: single.php:62
+#: single.php:88
+#: single.php:114
+#: single.php:141
+msgid 'Next'
+msgstr ""
+
+#: template-parts/footer/site-info.php:13
+msgid 'Education WordPress Theme Design By'
+msgstr ""
+
+#: template-parts/header/site-branding.php:15
+msgid 'Scroll down to content'
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:12
+msgid 'Top Menu'
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:15
+msgid 'Menu'
+msgstr ""
+
+#: template-parts/page/content-page.php:22
+#: template-parts/content-audio.php:55
+#: template-parts/content-gallery.php:51
+#: template-parts/content-image.php:44
+#: template-parts/content-video.php:63
+#: template-parts/content.php:44
+#: template-parts/grid-layout.php:45
+msgid 'Pages:'
+msgstr ""
+
+#: template-parts/content-none.php:20
+msgid  'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid  'It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help.'
+msgstr ""
+
+#: page-template/custom-home-page.php:112
+msgid "Read More"
+msgstr ""
+
+#: page-template/custom-home-page.php:58
+msgid 'Start Learning Now !'
+msgstr ""
+
+#: page-template/custom-home-page.php:80
+msgid 'OUR FEATURES'
+msgstr ""
+
+#: page-template/custom-home-page.php:81
+msgid 'CHOOSE YOUR DESIRED COURSES'
+msgstr ""
+
+#: inc/customizer.php:16
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Description of what this panel does."
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid 'Do you want this section'
+msgstr ""
+
+#: inc/customizer.php:39
+#: inc/customizer.php:28
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:41
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer.php:42
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid 'Contact Details'
+msgstr ""
+
+#: inc/customizer.php:60
+#: inc/customizer.php:72
+#: inc/customizer.php:84
+#: inc/customizer.php:96
+msgid 'Add Link'
+msgstr ""
+
+#: inc/customizer.php:108
+msgid 'Email Text'
+msgstr ""
+
+#: inc/customizer.php:120
+msgid 'Email Address'
+msgstr ""
+
+#: inc/customizer.php:132
+msgid 'Call Text'
+msgstr ""
+
+#: inc/customizer.php:144
+msgid 'Phone Number'
+msgstr ""
+
+#: inc/customizer.php:152
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:166
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:174
+msgid 'Our Services'
+msgstr ""
+
+#: inc/customizer.php:175
+msgid 'This section will appear below the slider.'
+msgstr ""
+
+#: inc/customizer.php:184
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:195
+msgid 'Section Sub Title'
+msgstr ""
+
+#: inc/customizer.php:208
+msgid 'Select Service Page'
+msgstr ""
+
+#: inc/customizer.php:216
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:227
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:259
+msgid 'Front Page Section %d Content'
+msgstr ""
+
+#: inc/customizer.php:260
+msgid 'Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed.'
+msgstr ""
+
+#: inc/customizer.php:379
+msgid  'Education Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:380
+msgid 'Upgrade Pro'
+msgstr ""

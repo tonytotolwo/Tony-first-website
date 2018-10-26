@@ -1,0 +1,1 @@
+jQuery(document).ready(function(){jQuery("#corporate-education-ui-tabs").tabs()});

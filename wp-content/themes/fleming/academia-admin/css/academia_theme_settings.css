@@ -1,0 +1,480 @@
+div.academia-wrapper {
+	font-size: 14px;
+	line-height: 1.6em;
+	margin: 20px 0; 
+	text-align: left; 
+	width: 780px;
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.05);
+}
+
+div.academia-wrapper a,
+div.academia-wrapper li {
+	-webkit-transition-duration: 0.3s; -moz-transition-duration: 0.3s; transition-duration: 0.3s;	
+}
+
+div.cleaner,
+div.divider {
+	margin:0;
+	clear: both; 
+	font-size:1px; 
+	height: 1px;  
+	line-height: 1px; 
+}
+
+div.divider {
+	border-top: solid 1px #f1f1f1;
+	margin: 15px 0;
+}
+
+/* Header */
+
+div.header {
+	background: #2d2d2d;
+	margin: 0;
+	padding: 30px;
+	-webkit-border-top-left-radius: 4px;
+	-webkit-border-top-right-radius: 4px;
+	-moz-border-radius-topleft: 4px;
+	-moz-border-radius-topright: 4px;
+	border-top-left-radius: 4px;
+	border-top-right-radius: 4px;
+}
+
+div#academia-logo {
+	display: inline-block;
+	width: 30%;
+}
+
+div#academia-theme-info {
+	color: #fff;
+	display: inline-block;
+	margin-right: 0;
+	text-align: right;
+	vertical-align: top;
+	width: 70%;
+}
+
+div#academia-theme-info p {
+	margin: 0;
+}
+
+div#academia-theme-info span.theme-name {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+div#academia-theme-info span.theme-version {
+	font-size: 12px;
+}
+
+/* Subheader */
+
+div.subheader {
+	background-color: #202020;
+	margin: 0;
+	padding: 10px 0;
+}
+
+div.subheader ul {
+	display: inline;
+	float: right;
+	margin: 0 30px 0 0;
+	padding: 0;
+}
+
+div.subheader ul li {
+	display: inline;
+	float: left;
+	font-size: 13px;
+	line-height: 30px;
+	margin: 0 0 0 20px;
+}
+
+div.subheader a {
+	color: #aaa;
+	text-decoration: underline;
+}
+
+div.subheader a:hover,
+div.subheader a:focus {
+	color: #fff;
+}
+
+div.subheader .dashicons {
+	color: #fff;
+	font-size: 16px;
+	line-height: 1em;
+	vertical-align: middle;
+}
+
+/* Main Tabs Container */
+
+div.academia-container {
+	background: #fff url(../images/academia-options-container-back.png) repeat-y top left;
+	border: solid 1px #e1e1e1;
+	border-top: 0;
+	border-bottom: 0;
+	margin: 0;
+	padding: 0;
+}
+
+div.academia-tabs {
+	display: inline;
+	float: left;
+	margin: 0 40px 0 0;
+	padding: 0;
+	width: 160px;
+}
+
+div.academia-tabs ul {
+	margin: 0 0 20px;
+	padding: 0;
+}
+
+div.academia-tabs li {
+	margin: 0;
+	padding: 0;
+}
+
+div.academia-tabs li a {
+	border-top: solid 1px #f9f9f9;
+	border-bottom: solid 1px #dfdfdf;
+	display: block;
+	font-size: 14px;
+	line-height: 40px;
+	padding-left: 15px;
+	text-decoration: none;
+}
+
+div.academia-tabs li:first-child a {
+	border-top: 0;
+}
+
+div.academia-tabs li:last-child a {
+	border-bottom: 0;
+}
+
+div.academia-tabs a {
+	color: #21759b;
+}
+
+div.academia-tabs a:hover {
+	color: #333;
+}
+
+div.academia-tabs li a.active,
+div.academia-tabs li:hover {
+	background-color: #fff;
+}
+
+div.academia-tabs li a.active {
+	color: #333;
+}
+
+.academia-block-heading {
+	color: #df4242;
+	display: block;
+	margin: 20px 0;
+}
+
+div.academia-content {
+	color: #555;
+	display: inline;
+	float: left;
+	margin-top: 40px;
+	padding-bottom: 30px;
+	width: 600px;
+}
+
+div.academia-container h2 {
+	border-bottom: solid 1px #f1f1f1;
+	display: none;
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0 0 20px;
+	padding: 0 0 10px;
+}
+
+div.academia-container h2.academia-section-title {
+	display: block;
+}
+
+div.academia-container h3 {
+	display: none;
+}
+
+div.academia-container form {
+	margin: 0;
+	padding: 0;
+}
+
+div.academia-content .form-table th {
+	color: #555;
+	font-size: 13px;
+	font-weight: bold;
+	margin-right: 20px;
+	padding: 10px 0 0;
+	width: 220px;
+}
+
+div.academia-content .form-wrap p,
+div.academia-content span.description {
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #999;
+}
+
+div.academia-content .form-table td {
+	color: #999;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 1.6em;
+	overflow: hidden;
+	padding: 10px 0;
+	width: 380px;
+}
+
+div.academia-content .form-table tr {
+	border-bottom: solid 1px #f1f1f1;
+}
+
+div.academia-content div.academia-input p {
+	margin: 10px 0 0;
+}
+
+div.academia-content .form-table input[type="text"],
+div.academia-content .form-table select,
+div.academia-content .form-table textarea {
+	border: solid 1px #dfdfdf;
+	font-size: 13px;
+	color: #333;
+	margin-bottom: 5px;
+	padding: 6px 8px;
+	width: 300px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+div.academia-content .form-table select {
+	padding: 0 0 0 8px;
+}
+
+div.academia-content input[type="checkbox"] {
+	margin-right: 5px;
+}
+
+/* Footer */
+
+.academia-wrapper .cleaner-footer {
+	background-color: #e1e1e1;
+}
+
+div.footer {
+	background: #ececec url(../images/academia-options-footer-back.png) repeat-x top left;
+	border: solid 1px #e1e1e1;
+	border-top: 0;
+	padding: 15px 0;
+	-webkit-border-bottom-right-radius: 5px;
+	-webkit-border-bottom-left-radius: 5px;
+	-moz-border-radius-bottomright: 5px;
+	-moz-border-radius-bottomleft: 5px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+
+.footer p.submit {
+	margin: 0;
+	padding: 0;
+}
+
+div.footer input {
+	display: inline;
+	float: right;
+	margin-right: 20px;
+}
+
+div.footer input.button-primary {
+	height: 30px;
+	margin-right: 20px;
+}
+
+/* Documentation Page */
+
+.academia-documentation {
+	background-color: #fff;
+	color: #424242;
+	line-height: 1.8em;
+	padding: 60px;
+}
+
+.academia-documentation p {
+	font-size: 15px;
+	line-height: 1.8em;
+	margin: 1.5em 0;
+}
+
+.academia-documentation h2 {
+	color: #252525;
+	font-size: 26px;
+	letter-spacing: -0.5px;
+	margin: 0 0 1.5em;
+}
+
+.academia-documentation ul {
+	margin: 1rem 2em;
+}
+
+.academia-documentation li {
+	list-style-position: inside;
+	list-style-type: square;
+}
+
+.academia-documentation hr {
+	margin: 40px 0;
+}
+
+/*messages*/
+.error {color:#cc0000;}
+
+/**
+ * -----------------------
+ * AcademiaThemes Admin Styles
+ * -----------------------
+ */
+
+/**
+ * General
+ */
+.academiathemes-none {
+	display: :none;
+}
+
+/**
+ * Widgets styles
+ */
+.academiathemes-h4 {
+	border-bottom: 1px solid #e5e5e5;
+	padding-bottom: 0.825em;
+	font-weight: 800;
+	margin-bottom: 0;
+}
+
+/**
+ * Widgets Page
+ */
+.widgets-php #widget-list div[id*=academiathemes-section-] {
+	display: none !important;
+}
+
+/**
+ * Edit Page
+ */
+
+ #academiathemes_post_options_metabox .hndle {
+	background-color: #A5243D;
+	color: #fff;
+ }
+
+ #academiathemes_post_options_metabox .handlediv .toggle-indicator {
+ 	color: #fff;
+ }
+
+  #academiathemes_post_options_metabox .academiathemes-admin-options-section-title {
+	background-color: #23282d;
+	color: #fff;
+	line-height: 1.4em;
+	margin: -16px -16px 0;
+	padding: 8px 15px;
+	text-align: left;
+	text-transform: uppercase;
+}
+
+#academiathemes_post_options_metabox .academiathemes-admin-section {
+	border: solid 1px #ddd;
+	margin: -1px 0 0;
+	padding: 15px;
+}
+
+#academiathemes_post_options_metabox .academiathemes-admin-section:first-of-type {
+	margin-top: 15px;
+}
+
+.academiathemes-admin-section .academiathemes-admin-options-item {
+	border-bottom: solid 1px #ddd;
+	margin: 12px 0;
+	padding-bottom: 10px;
+}
+
+.academiathemes-admin-section .academiathemes-admin-options-item:last-of-type {
+	border-bottom-width: 0;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+#academiathemes_post_options_metabox p {
+	line-height: 1.3em;
+}
+
+#academiathemes_post_options_metabox label {
+	display: block;
+}
+
+#academiathemes_post_options_metabox label + label {
+	margin-top: 10px;
+}
+
+.academiathemes-admin-options-span-wrap {
+	color: #83888a;
+	transition: all 0.08s ease-in-out;
+}
+
+.academiathemes-admin-options-span-headline {
+	display: inline-block;
+}
+
+input[type=checkbox]:checked + .academiathemes-admin-options-span-wrap {
+	color: #23282d;
+	font-weight: bold;
+}
+
+.academiathemes-admin-options-span-description {
+	color: #666;
+	display: block;
+	font-style: italic;
+	font-weight: normal;
+	margin: 10px 0 0;
+}
+
+.academiathemes-admin-section select,
+.academiathemes-admin-section input[type="text"] {
+	margin-top: 10px;
+}
+
+/*
+.academiathemes_widget_style {
+	display: none;
+}
+*/
+
+.academiathemes_widget_style .widget-top {
+	background-color: #f8da7e;
+	border-color: #dbc06c;
+}
+
+.academiathemes_widget_style h3 {
+	
+}
+
+#available-widgets [class*=academiathemes] .widget-title:before{
+	background: transparent url('../images/academia-icon-16.png') no-repeat top left;
+	content: '';
+	display: inline-block;
+	height: 16px;
+	width: 16px;
+}
+
+.academiathemes_widget_style .widget-top .widget-title:before {
+	display: none !important;
+}

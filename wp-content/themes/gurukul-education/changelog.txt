@@ -1,0 +1,24 @@
+Version 0.1
+	-- Initial Version Released.
+
+Version 0.2
+	-- Added proper theme urls.
+	-- Fixed minor theme error.
+
+Version 0.2.1
+	-- Added the css of sticky post.
+	-- Changed the width: 100% to auto.
+	-- Checked the theme by importing test data and done changes.
+
+Version 0.2.2
+	-- Added Pro Button url.
+	-- Removed "three-columns, four-columns" tags.
+	-- Changed the screenshot and removed the logo.
+	-- Removed portfolio tag.
+	-- Changed copyright to 2018.
+	-- Added the jquery prefix.
+
+Version 0.2.3
+	-- Potfile in language folder is updated.
+	-- Resolved error occured in files.
+	-- Updated theme with Post Formats.

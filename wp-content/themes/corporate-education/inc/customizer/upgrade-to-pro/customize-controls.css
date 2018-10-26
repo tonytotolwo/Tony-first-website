@@ -1,0 +1,24 @@
+#customize-controls .control-section-corporate-education .accordion-section-title:hover,
+#customize-controls .control-section-corporate-education .accordion-section-title:focus {
+	background-color: #191d3d;
+	color: #fff;
+}
+
+.control-section-corporate-education .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+	background-color: #ed6820;
+	border-color: #ed6820;
+	color: #fff;
+}
+
+.rtl .control-section-corporate-education .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}
+
+li#accordion-section-corporate-education h3.accordion-section-title {
+    background-color: #191d3d;
+    color: #fff;
+}
